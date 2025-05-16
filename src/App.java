@@ -27,7 +27,9 @@ public class App {
         // heroi.verificarHabilidades();
         // heroi.atacar("Goku", "Super forca");
 
-        Filme filme = new Filme();
+        // ---- aula 4 --------
+        // Filme filme = new Filme();
 
+        
     }
 }
