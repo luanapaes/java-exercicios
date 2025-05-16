@@ -21,14 +21,16 @@ public class App {
         // System.out.format("Celular %s com tela de %.1f, com %dgb de memória e SO %s", celularB.nome, celularB.tamanhoTela, celularB.espacoArmazenamento, celularB.sistemaOperacional);
 
         // ---- aula 2 ----------
-        Personagem heroi = new Personagem();
-        heroi.nome = "Hercules";
-        heroi.nivel = 5;
-        heroi.forca = 15;
-        heroi.habilidades = new String[] {"Super forca", "Velocidade extra", "Invisibilidade"};
-        heroi.exibirInformacoes();
-        heroi.verificarHabilidades();
-        heroi.atacar("Goku", "Super forca");
+        // Personagem heroi = new Personagem();
+        // heroi.nome = "Hercules";
+        // heroi.nivel = 5;
+        // heroi.forca = 15;
+        // heroi.habilidades = new String[] {"Super forca", "Velocidade extra", "Invisibilidade"};
+        // heroi.exibirInformacoes();
+        // heroi.verificarHabilidades();
+        // heroi.atacar("Goku", "Super forca");
+
+        
 
     }
 }
