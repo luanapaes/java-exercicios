@@ -30,6 +30,9 @@ public class App {
         // ---- aula 4 --------
         // Filme filme = new Filme();
 
-        
+        // ---- aula 5: visibilidade de Atributos e Métodos
+        // FestaVip festa = new FestaVip();
+        // festa.entrar();
+
     }
 }
