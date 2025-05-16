@@ -1,0 +1,8 @@
+# Ignora todos os arquivos .class em qualquer pasta
+*.class
+
+# Ou, para ser mais específico, ignorar só os .class da pasta src
+src/**/*.class
+
+# E se quiser ignorar toda a pasta bin também (caso decida usá-la depois)
+bin/
