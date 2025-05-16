@@ -33,6 +33,9 @@ public class App {
         // ---- aula 5: visibilidade de Atributos e Métodos
         // FestaVip festa = new FestaVip();
         // festa.entrar();
+        // ContaNetflix contaInfantil = new ContaNetflix();
+        // contaInfantil.entrar();
+        // contaInfantil.assistirFilme("Barbie: Escola de Princesas");
 
     }
 }
