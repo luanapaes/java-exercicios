@@ -37,5 +37,10 @@ public class App {
         // contaInfantil.entrar();
         // contaInfantil.assistirFilme("Barbie: Escola de Princesas");
 
+        // ---- aula 6: getters and setters
+        // Pessoa pessoa = new Pessoa();
+        // System.out.println(pessoa.getNome());
+        // pessoa.setNome("Luana");
+        // System.out.println(pessoa.getNome());
     }
 }
