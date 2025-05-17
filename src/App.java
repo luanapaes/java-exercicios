@@ -42,5 +42,33 @@ public class App {
         // System.out.println(pessoa.getNome());
         // pessoa.setNome("Luana");
         // System.out.println(pessoa.getNome());
+
+        // exercício prático
+        // Produto produto1 = new Produto();
+        // produto1.setNome("Samsung Galaxy");
+        // produto1.setPreco(1499.99);
+        // produto1.setQuantidade(40);
+        // produto1.exibirInformacoes();
+
+        // produto1.removerEstoque(100);
+        // produto1.exibirInformacoes();
+
+        // - ex 2
+        // ContaBancaria conta = new ContaBancaria();
+        
+        // conta.setNumeroConta("12345-6");
+        // conta.setTitular("Luana Paes");
+        // conta.setSaldo(1000.0);
+
+        // conta.exibirInformacoes();
+
+        // conta.depositar(500.0);
+        // conta.sacar(300.0);
+        // conta.sacar(1500.0); // Deve exibir erro
+
+        // conta.exibirInformacoes();
+
+
+
     }
 }
