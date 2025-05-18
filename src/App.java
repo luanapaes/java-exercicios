@@ -74,5 +74,11 @@ public class App {
         // lunaf0_.mostrarInformacoes();
 
 
+        //aula 9 - interface
+        // Circulo circulo = new Circulo(2);
+        // System.out.println("area circulo: " + circulo.calcularArea());
+        
+        // Quadrado quadrado  = new Quadrado (5);
+        // System.out.println("area quadrado: " + quadrado.calcularArea());
     }
 }
