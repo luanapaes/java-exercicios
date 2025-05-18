@@ -1,3 +1,4 @@
+import classes.*;
 import videos.*;
 
 public class App {
@@ -68,6 +69,9 @@ public class App {
 
         // conta.exibirInformacoes();
 
+        // aula 7: construtor
+        // Usuario lunaf0_ = new Usuario("Luana Paes", 21, 1.79f);
+        // lunaf0_.mostrarInformacoes();
 
 
     }
