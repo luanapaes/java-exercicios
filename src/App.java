@@ -1,3 +1,9 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
+import java.util.stream.Collectors;
+
 import classes.*;
 import videos.*;
 
@@ -80,5 +86,17 @@ public class App {
         
         // Quadrado quadrado  = new Quadrado (5);
         // System.out.println("area quadrado: " + quadrado.calcularArea());
+
+        // aula 10 - ArrayList
+        // ArrayList<String> cidades = new ArrayList<String>();
+        // cidades.add("Recife");
+        // cidades.add("Jaboatao dos Guararapes");
+        // cidades.add("Olinda");
+        // Collections.sort(cidades);
+        // for (String cidade : cidades) {
+        //     System.out.println(cidade);
+        // }
+
     }
 }
+ 
