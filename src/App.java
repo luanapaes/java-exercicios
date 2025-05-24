@@ -4,6 +4,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 
+import animais.*;
 import classes.*;
 import videos.*;
 
@@ -97,6 +98,22 @@ public class App {
         //     System.out.println(cidade);
         // }
 
+        // Cachorro cachorro = new Cachorro("Espiga");
+        // cachorro.beber();
+        // cachorro.lamber();
+        // //
+        // Gato nino = new Gato("Nino");
+        // nino.beber();
+        // nino.miar();
+        // //
+        // Dragao dragao = new Dragao("Banguela");
+        // dragao.soltarFogo();
+        // dragao.voar();
+        // //
+        // Pombo pombo = new Pombo("Sujinho");
+        // pombo.fazerPruh();
+        // pombo.enviarCarta();
+        // pombo.voar();
     }
 }
  
