@@ -7,6 +7,7 @@ import java.util.stream.Collectors;
 import animais.*;
 import classes.*;
 import videos.*;
+import jogo.*;
 
 public class App {
     public static void main(String[] args) throws Exception {
@@ -114,6 +115,13 @@ public class App {
         // pombo.fazerPruh();
         // pombo.enviarCarta();
         // pombo.voar();
+
+        // aula 12 - sobrescrita de métodos 
+        // Persona persona = new Persona("Super Mario");
+        // System.out.println(persona);  
+        // Arqueiro gaviao = new Arqueiro("Gaviao Arqueiro");
+        // System.out.println(gaviao);
+        // gaviao.atacar();
     }
 }
  
