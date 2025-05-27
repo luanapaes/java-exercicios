@@ -2,17 +2,15 @@ package animais;
 
 public class Animal {
     private String nome;
+    private int idade;
 
-    public Animal(String nome){
+    public Animal(String nome, int idade){
         this.nome = nome;
+        this.idade = idade;
     }
 
-    public void comer(){
-        System.out.printf("%s comeu.\n", nome);
-    }
-
-    public void beber(){
-        System.out.printf("%s bebeu.\n", nome);
+    public void emitirSom(){
+        System.out.println("Som genérico do animal");
     }
 
     public String getNome() {
@@ -21,5 +19,14 @@ public class Animal {
 
     public void setNome(String nome) {
         this.nome = nome;
-    }  
+    }
+
+    public int getIdade() {
+        return idade;
+    }
+
+    public void setIdade(int idade) {
+        this.idade = idade;
+    }
+
 }
