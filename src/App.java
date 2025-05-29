@@ -6,6 +6,8 @@ import java.util.stream.Collectors;
 
 import animais.*;
 import classes.*;
+import devflix.*;
+import devflix.Filme;
 import videos.*;
 import jogo.*;
 
@@ -122,6 +124,15 @@ public class App {
         // Arqueiro gaviao = new Arqueiro("Gaviao Arqueiro");
         // System.out.println(gaviao);
         // gaviao.atacar();
+
+        // Aula 14 - Polimorfismo
+        // Filme filme = new Filme("About Time");
+        // filme.play();
+        // filme.play("ingles", "");
+        // System.out.println("-----------------");
+        // Serie prisonBreak = new Serie("Prison Break", 5, 14, 1, 3);
+        // prisonBreak.play(4, 3);
+        // System.out.println(prisonBreak);
     }
 }
  
